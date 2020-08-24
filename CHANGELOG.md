@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.36.1](https://www.github.com/googleapis/google-http-java-client/compare/v1.36.0...v1.36.1) (2020-08-24)
+
+
+### Dependencies
+
+* update protobuf-java to 3.13.0 ([#1093](https://www.github.com/googleapis/google-http-java-client/issues/1093)) ([b7e9663](https://www.github.com/googleapis/google-http-java-client/commit/b7e96632234e944e0e476dedfc822333716756bb))
+
 ## [1.36.0](https://www.github.com/googleapis/google-http-java-client/compare/v1.35.0...v1.36.0) (2020-06-30)
 
 
